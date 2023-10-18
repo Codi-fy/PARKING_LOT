@@ -6,6 +6,8 @@
 }
 
 body {
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT84AmERfZQjZ4hzZ51syJDzDmpHZST_FTSVA&usqp=CAU') no-repeat center center fixed; 
+    background-size: cover;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 16px;
   background-color: #eee;
